@@ -1,0 +1,2 @@
+a=ganesh
+print(a)
